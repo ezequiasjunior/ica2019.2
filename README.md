@@ -1,2 +1,2 @@
-# ica_2019.1
+# ica_2019.2
 Homeworks da disciplina Inteligência Computacional Aplicada - TI0125
