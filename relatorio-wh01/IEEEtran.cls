@@ -2611,7 +2611,8 @@
 \def\appendixname{Appendix}
 \def\abstractname{Abstract}
 % IEEE specific names
-\def\IEEEkeywordsname{Index Terms}
+% \def\IEEEkeywordsname{Index Terms}
+\def\IEEEkeywordsname{Palavras-Chave}   % Palavras chave em pt
 \def\IEEEproofname{Proof}
 
 
