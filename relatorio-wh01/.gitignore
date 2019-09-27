@@ -1,9 +1,0 @@
-*.aux
-*.bbl
-*.blg
-*.log
-*.fls
-*.pgf
-*.pdf
-/.ipynb_checkpoints/*
-/.idea/*
