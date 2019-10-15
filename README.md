@@ -8,5 +8,3 @@ Para visualizar o notebook relativo ao HW01 segue o link: https://nbviewer.jupyt
 
 
 Para visualizar o notebook relativo ao HW02 segue o link: https://nbviewer.jupyter.org/github/ezequiasjunior/ica2019.2/blob/master/Homework02/preprocessing_data_hw02.ipynb
-
-Todo..parte 2
